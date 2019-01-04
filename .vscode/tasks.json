@@ -82,7 +82,8 @@
             "options": {
                 "cwd": "${workspaceRoot}/build/bin"
             },
-            "command": "./astar"
+            "command": "./advent-of-code-2018",
+            "problemMatcher": []
         },
         {
             "label": "Test",

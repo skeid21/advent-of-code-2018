@@ -3,12 +3,12 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": [
+    "configurations": [()
         {
             "name": "Launch-App",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceRoot}/build/bin/sorted",
+            "program": "${workspaceRoot}/build/bin/advent-of-code-2018",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
